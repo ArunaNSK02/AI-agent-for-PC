@@ -75,3 +75,5 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 cover/
+
+/policy-bypass.txt
